@@ -8,7 +8,7 @@ def Action1():
 root = tk.Tk("800x480")
 root.title("Machine Enigma")
 # Définir un icone :
-root.iconbitmap("logo.bmp")
+#root.iconbitmap("logo.bmp")
 # Personnaliser la couleur de l'arrière-plan de la fenêtre principale :
 root.config(bg = "#87CEEB")
 # Définir les dimensions par défaut la fenêtre principale :
